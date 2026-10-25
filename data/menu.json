@@ -1,0 +1,4774 @@
+{
+  "versaoEsquema": 1,
+  "moeda": "BRL",
+  "categorias": [
+    {
+      "id": 212820,
+      "nome": "Lanches",
+      "descricao": "",
+      "ordem": 0,
+      "status": "ACTIVE",
+      "produtos": [
+        {
+          "id": 4880042,
+          "nome": "Cachorro Quente kids",
+          "descricao": "Pão Salsinha com Milho e Batata, perfeito para as crianças. Uma opção saborosa e nutritiva para complementar as refeições ou lanches, agradando ao paladar infantil.",
+          "preco": 8.99,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-4880042.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813198,
+          "nome": "Cachorro Quente Normal",
+          "descricao": "Salsicha, Muçarela, Presunto, Milho, Azeitona, Vinagrete, Batata, Passas, Catupiry",
+          "preco": 13,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813198.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813199,
+          "nome": "Cachorro Quente Turbinado",
+          "descricao": "2 Salsichas, Muçarela, Presunto, Bacon, Milho, Azeitona, Vinagrete, Batata, Passas, Catupiry",
+          "preco": 15,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813199.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813200,
+          "nome": "Cachorro Quente Mega Turbinado",
+          "descricao": "2 Salsichas, Muçarela, Presunto, Bacon, Milho, Azeitona, Vinagrete, Batata, Passas, Ovo de codorna, Pernil, Catupiry",
+          "preco": 17,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813200.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813201,
+          "nome": "Hamburguer",
+          "descricao": "Pão, Hambúrguer, Presunto, Muçarela, Alface, Tomate, molho especial, Milho, Batata",
+          "preco": 14,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813201.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 2425009,
+          "nome": "X-Bacon",
+          "descricao": "Pão, Hambúrguer, Presunto, Muçarela, Bacon, , Alface, Tomate, Milho, Batata molho especial",
+          "preco": 15.5,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-2425009.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "view_only",
+              "service_desk",
+              "table",
+              "internal_table"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [
+              "immediate"
+            ],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813203,
+          "nome": "X-Egg",
+          "descricao": "Pão, Hambúrguer, Presunto, Muçarela, Ovo, molho especial, Alface, Tomate, Milho, Batata",
+          "preco": 15.5,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813203.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813204,
+          "nome": "X-Egg-Bacon",
+          "descricao": "Pão, Hambúrguer, Presunto, Muçarela, Bacon, molho especial, Ovo, Alface, Tomate, Milho, Batata",
+          "preco": 17,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813204.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 2281360,
+          "nome": "X-tudo",
+          "descricao": "Experimente a explosão de sabores do nosso irresistível lanche! Um suculento pão com hambúrguer, presunto, muçarela derretida, alface crocante, tomate fresco, milho, batata, ovo, bacon crocante, e frango desfiado molho especial.\r\n. Uma verdadeira delícia em cada mordida!",
+          "preco": 18,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-2281360.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "view_only",
+              "service_desk",
+              "internal_table",
+              "table"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813206,
+          "nome": "X Tudo Duplo",
+          "descricao": "Pão, 2 Hambúrgueres, 2 Presunto, 2 Muçarela, Alface, Tomate, Milho, Batata, 2 Ovos, Bacon, molho especial e Frango desfiado",
+          "preco": 23,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813206.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813207,
+          "nome": "Pesadão",
+          "descricao": "Pão, 2 Hambúrgueres, 2 Presunto, 2 Muçarela, Alface, Tomate, Milho, Batata, 2 Ovos, Bacon, Ovo de codorna, molho especial  Frango desfiado, Calabresa, Pernil e Barbecue",
+          "preco": 28,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813207.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813208,
+          "nome": "Pão com Pernil",
+          "descricao": "Pão de sal, Vinagrete, Pernil, Muçarela e Milho",
+          "preco": 15,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813208.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813209,
+          "nome": "Pão com Pernil Especial",
+          "descricao": "Pão de sal, Vinagrete, Pernil, Muçarela, Milho, Ovo e Bacon",
+          "preco": 17,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813209.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813210,
+          "nome": "Pão com Linguiça",
+          "descricao": "Pão de sal, Vinagrete, Linguiça, Muçarela, Milho, Ovo e Bacon",
+          "preco": 17,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813210.webp",
+          "adicionais": [
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1835078,
+          "nome": "Promoção  2 xtudo + refri de  1 litro",
+          "descricao": "",
+          "preco": 44,
+          "precoPromocional": 42,
+          "foto": "/assets/products/item-1835078.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "view_only",
+              "service_desk"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [
+              "delivery",
+              "takeout"
+            ],
+            "diasDoPrecoPromocional": [
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "monday",
+              "saturday",
+              "friday"
+            ],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": true
+          }
+        },
+        {
+          "id": 1851284,
+          "nome": "Promoção  2 mega turbinado",
+          "descricao": "Quarta Maluca no Dogão! Desfrute de 2 Cachorros-Quentes Mega Turbinados, com sabores irresistíveis e muito mais recheio! Venha saborear essa explosão de gostosura e surpreenda seu paladar. Não fique de fora!",
+          "preco": 34,
+          "precoPromocional": 32,
+          "foto": "/assets/products/item-1851284.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [
+              "wednesday",
+              "monday",
+              "tuesday",
+              "thursday"
+            ],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": true
+          }
+        },
+        {
+          "id": 1851300,
+          "nome": "Promoção  Pesadão + coca Pet",
+          "descricao": "Aproveite a promoção incrível: ao adquirir o Pesadão Coca Pet, você ganha ele de graça! Não perca essa oportunidade única para garantir qualidade e sabor para os seus momentos de descontração. Garanta já o seu!",
+          "preco": 32,
+          "precoPromocional": 29.99,
+          "foto": "/assets/products/item-1851300.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [
+              "immediate"
+            ],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday",
+              "saturday"
+            ],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": true
+          }
+        },
+        {
+          "id": 1967927,
+          "nome": "Promoção  3 xtudo",
+          "descricao": "",
+          "preco": 54,
+          "precoPromocional": 51,
+          "foto": "/assets/products/item-1967927.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "view_only",
+              "service_desk"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [
+              "delivery",
+              "takeout"
+            ],
+            "diasDoPrecoPromocional": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday"
+            ],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": true
+          }
+        },
+        {
+          "id": 1968001,
+          "nome": "Promoção 5 x tudo grátis guaraná 2 litros",
+          "descricao": "Peça 5 X-Tudo e ganhe um refrigerante por nossa conta! Delicie-se com o sabor incrível dos nossos sanduíches enquanto desfruta da bebida gelada. Aproveite essa promoção irresistível e satisfaça sua fome com estilo!",
+          "preco": 100,
+          "precoPromocional": 90,
+          "foto": "/assets/products/item-1968001.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "view_only",
+              "service_desk"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [
+              "sunday",
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday",
+              "saturday"
+            ],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": true
+          }
+        },
+        {
+          "id": 4879851,
+          "nome": "Mega Turbinado mais coca pet 200ml",
+          "descricao": "Aproveite um delicioso cachorro-quente mega turbinado acompanhado de uma refrescante Coca-Cola em formato pet. Uma combinação perfeita para saciar sua fome e matar a sede!",
+          "preco": 21,
+          "precoPromocional": 19.99,
+          "foto": "/assets/products/item-4879851.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [
+              "sunday",
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday",
+              "saturday"
+            ],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 212823,
+      "nome": "Espaguete",
+      "descricao": "",
+      "ordem": 1,
+      "status": "ACTIVE",
+      "produtos": [
+        {
+          "id": 1813211,
+          "nome": "Espaguete",
+          "descricao": "Sabores: bolonhesa,frango,alho e oleo\r\nCondimentos que acompanham: milho vinagrete mussarela e bacon",
+          "preco": 0,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813211.webp",
+          "adicionais": [
+            {
+              "id": 481433,
+              "nome": "Escolha o tamanho",
+              "minimo": 1,
+              "maximo": 1,
+              "obrigatorio": true,
+              "tipoEscolha": "SINGLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819799,
+                  "nome": "P",
+                  "descricao": "",
+                  "preco": 17,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819800,
+                  "nome": "G",
+                  "descricao": "",
+                  "preco": 22,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            },
+            {
+              "id": 481434,
+              "nome": "Opções",
+              "minimo": 1,
+              "maximo": 1,
+              "obrigatorio": true,
+              "tipoEscolha": "SINGLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819801,
+                  "nome": "Bolonhesa",
+                  "descricao": "",
+                  "preco": 0,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819802,
+                  "nome": "Frango",
+                  "descricao": "",
+                  "preco": 0,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819803,
+                  "nome": "Alho e Óleo",
+                  "descricao": "",
+                  "preco": 0,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            },
+            {
+              "id": 481694,
+              "nome": "Opções adicionais",
+              "minimo": 0,
+              "maximo": 1,
+              "obrigatorio": false,
+              "tipoEscolha": "SINGLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1821207,
+                  "nome": "Bolonhesa",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1821208,
+                  "nome": "Frango",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1821209,
+                  "nome": "Alho e Óleo",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            },
+            {
+              "id": 481432,
+              "nome": "Acréscimos",
+              "minimo": 0,
+              "maximo": 11,
+              "obrigatorio": false,
+              "tipoEscolha": "SUMMABLE",
+              "tipoCalculo": "SUM",
+              "opcoes": [
+                {
+                  "id": 1819785,
+                  "nome": "Ovo",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819786,
+                  "nome": "Pernil",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819787,
+                  "nome": "Catupiry",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819788,
+                  "nome": "Bacon",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819789,
+                  "nome": "MOLHO VERDE ",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819790,
+                  "nome": "Presunto ou Muçarela",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819791,
+                  "nome": "Azeitona ou Passas",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819792,
+                  "nome": "Barbecue",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819793,
+                  "nome": "Ovo de codorna",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819794,
+                  "nome": "Cheddar",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819795,
+                  "nome": "Frango desfiado",
+                  "descricao": "",
+                  "preco": 3,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819796,
+                  "nome": "Bife de hambúrguer",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819797,
+                  "nome": "Batata",
+                  "descricao": "",
+                  "preco": 2,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 1819798,
+                  "nome": "Calabresa",
+                  "descricao": "",
+                  "preco": 4,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                },
+                {
+                  "id": 2578237,
+                  "nome": "salsicha ",
+                  "descricao": "",
+                  "preco": 1,
+                  "precoAnterior": null,
+                  "minimo": null,
+                  "maximo": null,
+                  "obrigatorio": false,
+                  "disponibilidade": {
+                    "status": "ACTIVE",
+                    "estoque": null,
+                    "controleEstoqueAtivo": false
+                  }
+                }
+              ]
+            }
+          ],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 215557,
+      "nome": "Chocolates e doces  Balas",
+      "descricao": "",
+      "ordem": 3,
+      "status": "ACTIVE",
+      "produtos": [
+        {
+          "id": 1838201,
+          "nome": "Trento",
+          "descricao": "",
+          "preco": 4.5,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1838201.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 2199796,
+          "nome": "Doce de amendoim",
+          "descricao": "Reviva as memorias da infância com nosso irresistível doce de amendoim! Cada unidade é uma explosão de sabor que vai conquistar seu paladar. Experimente essa delícia que traz a alegria e doçura de tempos especiais!",
+          "preco": 1,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-2199796.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 2728017,
+          "nome": "Halls vermelho",
+          "descricao": "",
+          "preco": 3,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-2728017.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": 0.0,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 2728018,
+          "nome": "Trident azul",
+          "descricao": "",
+          "preco": 4,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-2728018.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 212821,
+      "nome": "Bebidas",
+      "descricao": "",
+      "ordem": 4,
+      "status": "ACTIVE",
+      "produtos": [
+        {
+          "id": 1813217,
+          "nome": "Coca cola mine pet ZERO  AÇÚCAR",
+          "descricao": "",
+          "preco": 4,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813217.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 5138758,
+          "nome": "Coca cola mine pet  tradicional",
+          "descricao": "",
+          "preco": 4,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-5138758.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1838112,
+          "nome": "Refrigerante lata 350  guaraná antártica",
+          "descricao": "",
+          "preco": 7,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1838112.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1838108,
+          "nome": "Refrigerante lata 350ml Sprite",
+          "descricao": "",
+          "preco": 7,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1838108.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1838101,
+          "nome": "Refrigerante lata 350ml Fanta uva",
+          "descricao": "",
+          "preco": 7,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1838101.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1838122,
+          "nome": "Refrigerante lata coca cola zero açúcar",
+          "descricao": "",
+          "preco": 7,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1838122.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813212,
+          "nome": "Refrigerante lata coca cola tradicional",
+          "descricao": "",
+          "preco": 7,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813212.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1828755,
+          "nome": "Refrigerante lata fanta laranja 350ml",
+          "descricao": "",
+          "preco": 7,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1828755.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1838148,
+          "nome": "Suco delvalle manga",
+          "descricao": "",
+          "preco": 7,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1838148.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813218,
+          "nome": "Suco lata Del Valle uva",
+          "descricao": "",
+          "preco": 7,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813218.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1835048,
+          "nome": "Suco delvalle pêssego ",
+          "descricao": "",
+          "preco": 7,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1835048.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1838150,
+          "nome": "Suco delvalle vale goiaba ",
+          "descricao": "",
+          "preco": 7,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1838150.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 3310370,
+          "nome": "Coca 600 ml",
+          "descricao": "",
+          "preco": 8,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-3310370.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813214,
+          "nome": "Kuat 2L",
+          "descricao": "",
+          "preco": 12,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813214.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813216,
+          "nome": "Coca 2L",
+          "descricao": "",
+          "preco": 15,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813216.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813219,
+          "nome": "BRAHMA LATÃO 473",
+          "descricao": " ",
+          "preco": 8,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813219.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1813220,
+          "nome": "Heineken LATAO 473",
+          "descricao": "",
+          "preco": 10,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1813220.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1838188,
+          "nome": "Água sem gaz",
+          "descricao": "",
+          "preco": 3,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1838188.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1838189,
+          "nome": "Água com gaz",
+          "descricao": "",
+          "preco": 4,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1838189.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        },
+        {
+          "id": 1944962,
+          "nome": "Guaraná antártica 1litro",
+          "descricao": "",
+          "preco": 9,
+          "precoPromocional": null,
+          "foto": "/assets/products/item-1944962.webp",
+          "adicionais": [],
+          "disponibilidade": {
+            "status": "ACTIVE",
+            "disponivelEm": [
+              "delivery",
+              "service_desk",
+              "table",
+              "internal_table",
+              "view_only"
+            ],
+            "horariosPermitidos": [],
+            "horariosDoPedido": [],
+            "tiposDePedido": [],
+            "diasDoPrecoPromocional": [],
+            "ativo": true,
+            "estoque": null,
+            "controleEstoqueAtivo": false,
+            "promocaoAtiva": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 319464,
+      "nome": "cigarro",
+      "descricao": "",
+      "ordem": 5,
+      "status": "ACTIVE",
+      "produtos": []
+    }
+  ]
+}
